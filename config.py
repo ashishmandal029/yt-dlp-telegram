@@ -33,6 +33,9 @@ allowed_domains: list[str] = [
     "www.twitter.com",
     "x.com",
     "www.x.com",
+    "www.hotstar.com",
+    "hotstar.com",
+    "jiohotstar.com",
     "bsky.app",
     "www.bsky.app",
 ]
